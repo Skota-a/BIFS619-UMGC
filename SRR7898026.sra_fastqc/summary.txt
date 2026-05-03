@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR7898026.sra.fastq
+PASS	Per base sequence quality	SRR7898026.sra.fastq
+PASS	Per sequence quality scores	SRR7898026.sra.fastq
+FAIL	Per base sequence content	SRR7898026.sra.fastq
+FAIL	Per sequence GC content	SRR7898026.sra.fastq
+PASS	Per base N content	SRR7898026.sra.fastq
+WARN	Sequence Length Distribution	SRR7898026.sra.fastq
+FAIL	Sequence Duplication Levels	SRR7898026.sra.fastq
+WARN	Overrepresented sequences	SRR7898026.sra.fastq
+PASS	Adapter Content	SRR7898026.sra.fastq
